@@ -1,9 +1,9 @@
 {
-    "family": "JenkinsServiceTest-1",
+    "family": "jenkinstest1",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
-            "name": "JenkinsDemoTest-1",
+            "name": "jenkinstest1",
             "image": "{{image}}",
             "portMappings": [
                 {
